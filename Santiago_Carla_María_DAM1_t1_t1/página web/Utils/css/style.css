@@ -1,0 +1,36 @@
+#presentacion{
+    background-color: cornsilk  ;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    border-bottom-left-radius: 3px red;
+    background-color: lavenderblush;
+}
+footer{background-color: pink;
+border:solid darkcyan 4px}
+h1{
+    background-color: rgb(190, 241, 220);
+    text-align:center;
+    border-bottom: 3px dashed darkgreen;
+    border-top: 3px dashed darkgreen;
+    border-left: 3px dashed darkgreen;
+    border-right: 3px dashed darkgreen;
+}
+h2{
+    text-align:center;
+}
+#navegar{
+    background-color: rgba(184, 201, 244, 0.263);
+}
+article {
+    border:solid #000 4px;
+    background-color: cornsilk 
+}
+#lista{
+    border:solid #000 4px;
+}
+footer{background-color: pink;
+border:solid darkcyan 4px}
+form{border: rgba(109, 223, 200, 0.568) 2px solid;
+    margin: 20px;
+  }
